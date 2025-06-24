@@ -24,7 +24,7 @@ This project helps you extract and update team tags on your Datadog dashboards u
    selenium==4.33.0
    ```
 
-3. Download the correct version of `chromedriver` from [https://chromedriver.chromium.org/downloads](https://chromedriver.chromium.org/downloads), place it in your system `PATH` or in the project root.
+3. Download Selenium IDE on: https://chromewebstore.google.com/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd
 
 ## 🚀 How to Use
 
